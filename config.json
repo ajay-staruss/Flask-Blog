@@ -1,0 +1,16 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blog",
+        "prod_uri":"mysql://root:@localhost/blog",
+        "fb":"https://facebook.com",
+        "tw":"https://twitter.com",
+        "gh":"https://github.com",
+        "gmail-user":"ajaywikebullhog@gmail.com",
+        "gmail-pass":"gmail_pass",
+        "no_of_post":5,
+        "admin_user":"ajay",
+        "admin_password":"password"
+    }
+}
